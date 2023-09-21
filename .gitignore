@@ -3,3 +3,4 @@ build
 
 .direnv
 compile_commands.json
+.cache
